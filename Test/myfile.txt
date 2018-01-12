@@ -1,2 +1,3 @@
 Added second line
 Added end of text file
+Just Fixed a bug.!
