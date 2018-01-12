@@ -1,1 +1,2 @@
-first text file in my clientside repo
+Added second line
+Added end of text file
